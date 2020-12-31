@@ -1,0 +1,3117 @@
+{
+	"type": "FeatureCollection",
+	"meta": {
+		"lat": "52.0399885452366",
+		"lng": "14.4009725813947"
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3005474,
+					51.9880502
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Adler-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Cottbuser Stra&szlig;e 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;15868 Lieberose&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033671  /2177&quot;&gt;033671  /2177&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Adler-Apotheke",
+				"strasse": "Cottbuser Straße 2",
+				"plz": "15868",
+				"ort": "Lieberose",
+				"id": "119",
+				"distanz": "8.99",
+				"telefon": "033671  /2177",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.2632784,
+					52.1044408
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Drei Linden Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 3&lt;/span&gt;&lt;br&gt;&lt;span&gt;15848 Friedland&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033676 / 269&quot;&gt;033676 / 269&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Drei Linden Apotheke",
+				"strasse": "Markt 3",
+				"plz": "15848",
+				"ort": "Friedland",
+				"id": "595",
+				"distanz": "11.84",
+				"telefon": "033676 / 269",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6483912,
+					52.0881532
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Kloster-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Frankfurter Stra&szlig;e 26&lt;/span&gt;&lt;br&gt;&lt;span&gt;15898 Neuzelle&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033652  / 8052&quot;&gt;033652  / 8052&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Kloster-Apotheke",
+				"strasse": "Frankfurter Straße 26",
+				"plz": "15898",
+				"ort": "Neuzelle",
+				"id": "105",
+				"distanz": "17.76",
+				"telefon": "033652  / 8052",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.2474,
+					52.17128
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Spree-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 5/6&lt;/span&gt;&lt;br&gt;&lt;span&gt;15848 Beeskow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03366  / 214 94&quot;&gt;03366  / 214 94&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Spree-Apotheke",
+				"strasse": "Markt 5/6",
+				"plz": "15848",
+				"ort": "Beeskow",
+				"id": "144",
+				"distanz": "18.00",
+				"telefon": "03366  / 214 94",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.2476,
+					52.17206
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Adler-Apotheke Pinnow&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 12&lt;/span&gt;&lt;br&gt;&lt;span&gt;15848 Beeskow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03366  / 263 81&quot;&gt;03366  / 263 81&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Adler-Apotheke Pinnow",
+				"strasse": "Markt 12",
+				"plz": "15848",
+				"ort": "Beeskow",
+				"id": "232",
+				"distanz": "18.06",
+				"telefon": "03366  / 263 81",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.2455,
+					52.17302
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke an der Stadtmauer&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Breite Stra&szlig;e 23&lt;/span&gt;&lt;br&gt;&lt;span&gt;15848 Beeskow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03366 / 253 450&quot;&gt;03366 / 253 450&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke an der Stadtmauer",
+				"strasse": "Breite Straße 23",
+				"plz": "15848",
+				"ort": "Beeskow",
+				"id": "532",
+				"distanz": "18.23",
+				"telefon": "03366 / 253 450",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.63558,
+					52.13011
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Sert&uuml;rner-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Wiesengrund 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364 / 413 247&quot;&gt;03364 / 413 247&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Sertürner-Apotheke",
+				"strasse": "Am Wiesengrund 1",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "416",
+				"distanz": "18.93",
+				"telefon": "03364 / 413 247",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6244046,
+					52.1431046
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Galenus-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedrich-Engels-Stra&szlig;e 39 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364  / 441 50&quot;&gt;03364  / 441 50&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Galenus-Apotheke",
+				"strasse": "Friedrich-Engels-Straße 39 a",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "272",
+				"distanz": "19.11",
+				"telefon": "03364  / 441 50",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.62716,
+					52.14138
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke im St&auml;dtischen Krankenhaus&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedrich-Engels-Stra&szlig;e 39&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364   / 543 961&quot;&gt;03364   / 543 961&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke im Städtischen Krankenhaus",
+				"strasse": "Friedrich-Engels-Straße 39",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "99",
+				"distanz": "19.15",
+				"telefon": "03364   / 543 961",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.63007,
+					52.14803
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Magistral-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lindenallee 13&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364   /432 15&quot;&gt;03364   /432 15&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Magistral-Apotheke",
+				"strasse": "Lindenallee 13",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "27",
+				"distanz": "19.75",
+				"telefon": "03364   /432 15",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6451072,
+					52.1388525
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Rosen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Inselblick 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364  / 613 84&quot;&gt;03364  / 613 84&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Rosen-Apotheke",
+				"strasse": "Inselblick 14",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "109",
+				"distanz": "20.00",
+				"telefon": "03364  / 613 84",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6378,
+					52.14762
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;M&auml;rkische Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Marx-Stra&szlig;e 34&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364 / 455 050&quot;&gt;03364 / 455 050&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Märkische Apotheke",
+				"strasse": "Karl-Marx-Straße 34",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "470",
+				"distanz": "20.15",
+				"telefon": "03364 / 455 050",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.4124336,
+					51.857838
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Festungs-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Mittelstra&szlig;e 5/6&lt;/span&gt;&lt;br&gt;&lt;span&gt;03185 Peitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035601 / 302 49&quot;&gt;035601 / 302 49&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Festungs-Apotheke",
+				"strasse": "Mittelstraße 5/6",
+				"plz": "03185",
+				"ort": "Peitz",
+				"id": "360",
+				"distanz": "20.29",
+				"telefon": "035601 / 302 49",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.41508,
+					51.85764
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Adler-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schulstra&szlig;e 8&lt;/span&gt;&lt;br&gt;&lt;span&gt;03185 Peitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035601  /220 74&quot;&gt;035601  /220 74&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Adler-Apotheke",
+				"strasse": "Schulstraße 8",
+				"plz": "03185",
+				"ort": "Peitz",
+				"id": "60",
+				"distanz": "20.32",
+				"telefon": "035601  /220 74",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.63627,
+					52.1526893
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke im City-Center&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Nordpassage 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364  / 413 545&quot;&gt;03364  / 413 545&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke im City-Center",
+				"strasse": "Nordpassage 1",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "452",
+				"distanz": "20.40",
+				"telefon": "03364  / 413 545",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.65893,
+					52.14293
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Punkt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;F&uuml;rstenberger Stra&szlig;e 1 A&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364  / 751 075&quot;&gt;03364  / 751 075&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Punkt-Apotheke",
+				"strasse": "Fürstenberger Straße 1 A",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "153",
+				"distanz": "21.04",
+				"telefon": "03364  / 751 075",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6762713,
+					51.9516892
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Schiller-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedrich-Schiller-Stra&szlig;e 5 d&lt;/span&gt;&lt;br&gt;&lt;span&gt;03172 Guben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03561 / 540727&quot;&gt;03561 / 540727&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Schiller-Apotheke",
+				"strasse": "Friedrich-Schiller-Straße 5 d",
+				"plz": "03172",
+				"ort": "Guben",
+				"id": "47",
+				"distanz": "21.28",
+				"telefon": "03561 / 540727",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6826958,
+					51.9533677
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Fuchs-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Klaus-Herrmann-Stra&szlig;e 19&lt;/span&gt;&lt;br&gt;&lt;span&gt;03172 Guben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03561   / 520 62&quot;&gt;03561   / 520 62&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Fuchs-Apotheke",
+				"strasse": "Klaus-Herrmann-Straße 19",
+				"plz": "03172",
+				"ort": "Guben",
+				"id": "271",
+				"distanz": "21.58",
+				"telefon": "03561   / 520 62",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6720391,
+					52.1446046
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Altstadt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;K&ouml;nigstra&szlig;e 56&lt;/span&gt;&lt;br&gt;&lt;span&gt;15890 Eisenh&uuml;ttenstadt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03364 / 291 97&quot;&gt;03364 / 291 97&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Altstadt-Apotheke",
+				"strasse": "Königstraße 56",
+				"plz": "15890",
+				"ort": "Eisenhüttenstadt",
+				"id": "499",
+				"distanz": "21.89",
+				"telefon": "03364 / 291 97",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.41516,
+					52.24599
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Markt&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;15299 M&uuml;llrose&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033606  / 7676&quot;&gt;033606  / 7676&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Markt",
+				"strasse": "Markt 15",
+				"plz": "15299",
+				"ort": "Müllrose",
+				"id": "246",
+				"distanz": "22.95",
+				"telefon": "033606  / 7676",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.7041605,
+					51.9464289
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Alexander-Tschirch-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Marx-Stra&szlig;e 52/54&lt;/span&gt;&lt;br&gt;&lt;span&gt;03172 Guben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03561 / 2387&quot;&gt;03561 / 2387&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Alexander-Tschirch-Apotheke",
+				"strasse": "Karl-Marx-Straße 52/54",
+				"plz": "03172",
+				"ort": "Guben",
+				"id": "168",
+				"distanz": "23.25",
+				"telefon": "03561 / 2387",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.71395,
+					51.9533
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Nei&szlig;e-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Berliner Stra&szlig;e 13/16&lt;/span&gt;&lt;br&gt;&lt;span&gt;03172 Guben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03561/ 438 91&quot;&gt;03561/ 438 91&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Neiße-Apotheke",
+				"strasse": "Berliner Straße 13/16",
+				"plz": "03172",
+				"ort": "Guben",
+				"id": "435",
+				"distanz": "23.52",
+				"telefon": "03561/ 438 91",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.71482,
+					51.95179
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Stadt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Berliner Stra&szlig;e 43/44&lt;/span&gt;&lt;br&gt;&lt;span&gt;03172 Guben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03561  / 2430&quot;&gt;03561  / 2430&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Stadt-Apotheke",
+				"strasse": "Berliner Straße 43/44",
+				"plz": "03172",
+				"ort": "Guben",
+				"id": "122",
+				"distanz": "23.65",
+				"telefon": "03561  / 2430",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.12327,
+					51.9127
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Schinkel-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kirchstra&szlig;e 30&lt;/span&gt;&lt;br&gt;&lt;span&gt;15913 Straupitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035475 / 482&quot;&gt;035475 / 482&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Schinkel-Apotheke",
+				"strasse": "Kirchstraße 30",
+				"plz": "15913",
+				"ort": "Straupitz",
+				"id": "38",
+				"distanz": "23.74",
+				"telefon": "035475 / 482",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.11262,
+					52.20296
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke Lindenberg&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hauptstra&szlig;e 13 F&lt;/span&gt;&lt;br&gt;&lt;span&gt;15848 Tauche&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033677 / 5729&quot;&gt;033677 / 5729&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke Lindenberg",
+				"strasse": "Hauptstraße 13 F",
+				"plz": "15848",
+				"ort": "Tauche",
+				"id": "379",
+				"distanz": "26.79",
+				"telefon": "033677 / 5729",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.57576,
+					52.25921
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Gl&uuml;ckauf-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Knappenweg 6&lt;/span&gt;&lt;br&gt;&lt;span&gt;15295 Brieskow-Finkenheerd&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033609 / 260&quot;&gt;033609 / 260&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Glückauf-Apotheke",
+				"strasse": "Knappenweg 6",
+				"plz": "15295",
+				"ort": "Brieskow-Finkenheerd",
+				"id": "310",
+				"distanz": "27.17",
+				"telefon": "033609 / 260",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.34255,
+					51.78624
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Paracelsus-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Zuschka 37&lt;/span&gt;&lt;br&gt;&lt;span&gt;03044 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355   / 871 632&quot;&gt;0355   / 871 632&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Paracelsus-Apotheke",
+				"strasse": "Zuschka 37",
+				"plz": "03044",
+				"ort": "Cottbus",
+				"id": "369",
+				"distanz": "28.53",
+				"telefon": "0355   / 871 632",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.14877,
+					51.83523
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Bergauf-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hauptstra&szlig;e 24 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;03096 Burg (Spreewald)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035603 / 18 99 37&quot;&gt;035603 / 18 99 37&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Bergauf-Apotheke",
+				"strasse": "Hauptstraße 24 a",
+				"plz": "03096",
+				"ort": "Burg (Spreewald)",
+				"id": "585",
+				"distanz": "28.62",
+				"telefon": "035603 / 18 99 37",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3492449,
+					51.7844838
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Max &amp; Moritz-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kauperstra&szlig;e 38&lt;/span&gt;&lt;br&gt;&lt;span&gt;03044 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355   / 874 947&quot;&gt;0355   / 874 947&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Max & Moritz-Apotheke",
+				"strasse": "Kauperstraße 38",
+				"plz": "03044",
+				"ort": "Cottbus",
+				"id": "427",
+				"distanz": "28.66",
+				"telefon": "0355   / 874 947",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.145763,
+					51.8350388
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Lutki-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bahnhofstra&szlig;e 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;03096 Burg (Spreewald)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035603 / 189 033&quot;&gt;035603 / 189 033&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Lutki-Apotheke",
+				"strasse": "Bahnhofstraße 15",
+				"plz": "03096",
+				"ort": "Burg (Spreewald)",
+				"id": "558",
+				"distanz": "28.76",
+				"telefon": "035603 / 189 033",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.31733,
+					51.7839
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke im Cottbus-Center&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Sielower Chaussee 38&lt;/span&gt;&lt;br&gt;&lt;span&gt;03044 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    /872 961&quot;&gt;0355    /872 961&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke im Cottbus-Center",
+				"strasse": "Sielower Chaussee 38",
+				"plz": "03044",
+				"ort": "Cottbus",
+				"id": "358",
+				"distanz": "29.08",
+				"telefon": "0355    /872 961",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3416127,
+					51.7762328
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Stern-Apotheke im TKC&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gerhart-Hauptmann-Stra&szlig;e 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;03044 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 49 49 35 50&quot;&gt;0355 / 49 49 35 50&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Stern-Apotheke im TKC",
+				"strasse": "Gerhart-Hauptmann-Straße 15",
+				"plz": "03044",
+				"ort": "Cottbus",
+				"id": "612",
+				"distanz": "29.64",
+				"telefon": "0355 / 49 49 35 50",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3416127,
+					51.7762328
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Elisen-Apotheke i. &Auml;rztehaus Cottbus-Nord&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gerhart-Hauptmann-Stra&szlig;e 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;03044 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    /781 12 10&quot;&gt;0355    /781 12 10&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Elisen-Apotheke i. Ärztehaus Cottbus-Nord",
+				"strasse": "Gerhart-Hauptmann-Straße 15",
+				"plz": "03044",
+				"ort": "Cottbus",
+				"id": "11",
+				"distanz": "29.64",
+				"telefon": "0355    /781 12 10",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3335762,
+					51.7659886
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Nord-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karlstra&szlig;e 94&lt;/span&gt;&lt;br&gt;&lt;span&gt;03044 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    / 244 55&quot;&gt;0355    / 244 55&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Nord-Apotheke",
+				"strasse": "Karlstraße 94",
+				"plz": "03044",
+				"ort": "Cottbus",
+				"id": "97",
+				"distanz": "30.85",
+				"telefon": "0355    / 244 55",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3467575,
+					51.7638661
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Flamingo-Apotheke Sandow&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hermannstra&szlig;e 17&lt;/span&gt;&lt;br&gt;&lt;span&gt;03042 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 724 083&quot;&gt;0355 / 724 083&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Flamingo-Apotheke Sandow",
+				"strasse": "Hermannstraße 17",
+				"plz": "03042",
+				"ort": "Cottbus",
+				"id": "497",
+				"distanz": "30.96",
+				"telefon": "0355 / 724 083",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.34559,
+					51.76297
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Sandower Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Sandower Hauptstra&szlig;e 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;03042 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355  / 715 127&quot;&gt;0355  / 715 127&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Sandower Apotheke",
+				"strasse": "Sandower Hauptstraße 15",
+				"plz": "03042",
+				"ort": "Cottbus",
+				"id": "196",
+				"distanz": "31.07",
+				"telefon": "0355  / 715 127",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3262568,
+					51.7623637
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Galenus-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lieberoser Stra&szlig;e 35/36&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    /243 78&quot;&gt;0355    /243 78&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Galenus-Apotheke",
+				"strasse": "Lieberoser Straße 35/36",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "111",
+				"distanz": "31.33",
+				"telefon": "0355    /243 78",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3274911,
+					51.7619039
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke in der Spree Galerie&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Marx-Stra&szlig;e 68&lt;/span&gt;&lt;br&gt;&lt;span&gt;03044 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 494 69 60&quot;&gt;0355 / 494 69 60&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke in der Spree Galerie",
+				"strasse": "Karl-Marx-Straße 68",
+				"plz": "03044",
+				"ort": "Cottbus",
+				"id": "600",
+				"distanz": "31.36",
+				"telefon": "0355 / 494 69 60",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.31759,
+					51.76172
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Str&ouml;bitzer-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schweriner Stra&szlig;e 3&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355  / 793 887&quot;&gt;0355  / 793 887&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Ströbitzer-Apotheke",
+				"strasse": "Schweriner Straße 3",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "147",
+				"distanz": "31.50",
+				"telefon": "0355  / 793 887",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3415133,
+					51.7587609
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Goethepark&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Franz-Mehring-Stra&szlig;e 12&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 486 90 92&quot;&gt;0355 / 486 90 92&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Goethepark",
+				"strasse": "Franz-Mehring-Straße 12",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "573",
+				"distanz": "31.57",
+				"telefon": "0355 / 486 90 92",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.31797,
+					51.76057
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Sonnen-Apotheke Str&ouml;bitz&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schweriner Stra&szlig;e 1 B&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 381 78 17&quot;&gt;0355 / 381 78 17&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Sonnen-Apotheke Ströbitz",
+				"strasse": "Schweriner Straße 1 B",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "529",
+				"distanz": "31.62",
+				"telefon": "0355 / 381 78 17",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.33326,
+					51.75827
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Pluspunkt-Apotheke in der Sprem&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Spremberger Stra&szlig;e 24&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 381 83 10&quot;&gt;0355 / 381 83 10&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Pluspunkt-Apotheke in der Sprem",
+				"strasse": "Spremberger Straße 24",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "486",
+				"distanz": "31.70",
+				"telefon": "0355 / 381 83 10",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.32767,
+					51.758
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Flamingo-Apotheke Bahnhofstra&szlig;e&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bahnhofstra&szlig;e 63&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    / 780 730&quot;&gt;0355    / 780 730&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Flamingo-Apotheke Bahnhofstraße",
+				"strasse": "Bahnhofstraße 63",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "345",
+				"distanz": "31.79",
+				"telefon": "0355    / 780 730",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3291377,
+					51.7570832
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;City Apotheke im Blechen Carr&eacute;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Liebknecht-Stra&szlig;e 136&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 62 02 965&quot;&gt;0355 / 62 02 965&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "City Apotheke im Blechen Carré",
+				"strasse": "Karl-Liebknecht-Straße 136",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "607",
+				"distanz": "31.88",
+				"telefon": "0355 / 62 02 965",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.324259,
+					51.7566569
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Flamingo-Apotheke Am Theater&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Liebknecht-Stra&szlig;e 26&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355   / 246 88&quot;&gt;0355   / 246 88&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Flamingo-Apotheke Am Theater",
+				"strasse": "Karl-Liebknecht-Straße 26",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "291",
+				"distanz": "31.98",
+				"telefon": "0355   / 246 88",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.32507,
+					51.75578
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Theater&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schillerstra&szlig;e 21-22&lt;/span&gt;&lt;br&gt;&lt;span&gt;03046 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 784 398 00&quot;&gt;0355 / 784 398 00&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Theater",
+				"strasse": "Schillerstraße 21-22",
+				"plz": "03046",
+				"ort": "Cottbus",
+				"id": "632",
+				"distanz": "32.06",
+				"telefon": "0355 / 784 398 00",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.32695,
+					51.74908
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Die Passagen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Vetschauer Stra&szlig;e 10&lt;/span&gt;&lt;br&gt;&lt;span&gt;03048 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    /478 040&quot;&gt;0355    /478 040&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Die Passagen-Apotheke",
+				"strasse": "Vetschauer Straße 10",
+				"plz": "03048",
+				"ort": "Cottbus",
+				"id": "414",
+				"distanz": "32.78",
+				"telefon": "0355    /478 040",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.51843,
+					52.32849
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;M-Apotheke S&uuml;dring&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Alexej-Leonow-Stra&szlig;e 2 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;15236 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 / 500 55 67&quot;&gt;0335 / 500 55 67&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "M-Apotheke Südring",
+				"strasse": "Alexej-Leonow-Straße 2 a",
+				"plz": "15236",
+				"ort": "Frankfurt (Oder)",
+				"id": "481",
+				"distanz": "33.10",
+				"telefon": "0335 / 500 55 67",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.32696,
+					51.74552
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Carl-Thiem-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Thiemstra&szlig;e 124&lt;/span&gt;&lt;br&gt;&lt;span&gt;03050 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 483 84 10&quot;&gt;0355 / 483 84 10&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Carl-Thiem-Apotheke",
+				"strasse": "Thiemstraße 124",
+				"plz": "03050",
+				"ort": "Cottbus",
+				"id": "544",
+				"distanz": "33.17",
+				"telefon": "0355 / 483 84 10",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3318386,
+					51.7447634
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Rosen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Stra&szlig;e der Jugend 58&lt;/span&gt;&lt;br&gt;&lt;span&gt;03050 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355  / 422 142&quot;&gt;0355  / 422 142&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Rosen-Apotheke",
+				"strasse": "Straße der Jugend 58",
+				"plz": "03050",
+				"ort": "Cottbus",
+				"id": "302",
+				"distanz": "33.21",
+				"telefon": "0355  / 422 142",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3266697,
+					51.7441031
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Klinikum&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Thiemstra&szlig;e 112&lt;/span&gt;&lt;br&gt;&lt;span&gt;03050 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355   / 472 090&quot;&gt;0355   / 472 090&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Klinikum",
+				"strasse": "Thiemstraße 112",
+				"plz": "03050",
+				"ort": "Cottbus",
+				"id": "410",
+				"distanz": "33.33",
+				"telefon": "0355   / 472 090",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3248136,
+					51.7440719
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke im Carl-Thiem-Klinikum&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Thiemstra&szlig;e 111&lt;/span&gt;&lt;br&gt;&lt;span&gt;03048 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    / 462 545&quot;&gt;0355    / 462 545&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke im Carl-Thiem-Klinikum",
+				"strasse": "Thiemstraße 111",
+				"plz": "03048",
+				"ort": "Cottbus",
+				"id": "10",
+				"distanz": "33.35",
+				"telefon": "0355    / 462 545",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.54858,
+					52.32642
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;M-Apotheke Wasserturm&lt;/h5&gt;&lt;p&gt;&lt;span&gt;G&uuml;ldendorfer Stra&szlig;e 34&lt;/span&gt;&lt;br&gt;&lt;span&gt;15232 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335  / 528 573&quot;&gt;0335  / 528 573&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "M-Apotheke Wasserturm",
+				"strasse": "Güldendorfer Straße 34",
+				"plz": "15232",
+				"ort": "Frankfurt (Oder)",
+				"id": "339",
+				"distanz": "33.44",
+				"telefon": "0335  / 528 573",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.53875,
+					52.32887
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Hedwigs-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Hedwigsberg 4&lt;/span&gt;&lt;br&gt;&lt;span&gt;15232 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 / 500 49 30&quot;&gt;0335 / 500 49 30&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Hedwigs-Apotheke",
+				"strasse": "Am Hedwigsberg 4",
+				"plz": "15232",
+				"ort": "Frankfurt (Oder)",
+				"id": "22",
+				"distanz": "33.50",
+				"telefon": "0335 / 500 49 30",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5306456,
+					52.3328187
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Ph&ouml;nix-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Leipziger Stra&szlig;e 54&lt;/span&gt;&lt;br&gt;&lt;span&gt;15232 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335  / 542 316&quot;&gt;0335  / 542 316&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Phönix-Apotheke",
+				"strasse": "Leipziger Straße 54",
+				"plz": "15232",
+				"ort": "Frankfurt (Oder)",
+				"id": "202",
+				"distanz": "33.78",
+				"telefon": "0335  / 542 316",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.24587,
+					51.74934
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Linden-Apotheke-Kolkwitz&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lindenstra&szlig;e 9&lt;/span&gt;&lt;br&gt;&lt;span&gt;03099 Kolkwitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355   / 282 17&quot;&gt;0355   / 282 17&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Linden-Apotheke-Kolkwitz",
+				"strasse": "Lindenstraße 9",
+				"plz": "03099",
+				"ort": "Kolkwitz",
+				"id": "135",
+				"distanz": "34.06",
+				"telefon": "0355   / 282 17",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.541831,
+					52.3357113
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Leopold-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;G&ouml;rlitzer Stra&szlig;e 22&lt;/span&gt;&lt;br&gt;&lt;span&gt;15232 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335    / 535 032&quot;&gt;0335    / 535 032&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Leopold-Apotheke",
+				"strasse": "Görlitzer Straße 22",
+				"plz": "15232",
+				"ort": "Frankfurt (Oder)",
+				"id": "402",
+				"distanz": "34.29",
+				"telefon": "0335    / 535 032",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.32565,
+					51.73032
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;S&uuml;d-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Thierbacher Stra&szlig;e 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;03048 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355   / 533 810&quot;&gt;0355   / 533 810&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Süd-Apotheke",
+				"strasse": "Thierbacher Straße 1",
+				"plz": "03048",
+				"ort": "Cottbus",
+				"id": "240",
+				"distanz": "34.86",
+				"telefon": "0355   / 533 810",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.2772413,
+					52.3439312
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Linden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bahnhofstra&szlig;e 29 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;15518 Briesen (Mark)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033607  /5233&quot;&gt;033607  /5233&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Linden-Apotheke",
+				"strasse": "Bahnhofstraße 29 a",
+				"plz": "15518",
+				"ort": "Briesen (Mark)",
+				"id": "30",
+				"distanz": "34.87",
+				"telefon": "033607  /5233",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5237749,
+					52.3454724
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Westkreuz-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;August-Bebel-Stra&szlig;e 6 f&lt;/span&gt;&lt;br&gt;&lt;span&gt;15234 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 / 433 56 97&quot;&gt;0335 / 433 56 97&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Westkreuz-Apotheke",
+				"strasse": "August-Bebel-Straße 6 f",
+				"plz": "15234",
+				"ort": "Frankfurt (Oder)",
+				"id": "518",
+				"distanz": "35.02",
+				"telefon": "0335 / 433 56 97",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.53108,
+					52.34427
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Oderland-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Liebknecht-Stra&szlig;e 48&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335   / 222 88&quot;&gt;0335   / 222 88&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Oderland-Apotheke",
+				"strasse": "Karl-Liebknecht-Straße 48",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "292",
+				"distanz": "35.02",
+				"telefon": "0335   / 222 88",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5464344,
+					52.3418943
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;M-Apotheke City&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Heilbronner Strasse 24&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+				"name": "M-Apotheke City",
+				"strasse": "Heilbronner Strasse 24",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "663",
+				"distanz": "35.04",
+				"telefon": "",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.331,
+					51.72819
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Ahorn-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Heinrich-Mann-Stra&szlig;e 11&lt;/span&gt;&lt;br&gt;&lt;span&gt;03050 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 536 064&quot;&gt;0355 / 536 064&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Ahorn-Apotheke",
+				"strasse": "Heinrich-Mann-Straße 11",
+				"plz": "03050",
+				"ort": "Cottbus",
+				"id": "517",
+				"distanz": "35.04",
+				"telefon": "0355 / 536 064",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5421044,
+					52.3432808
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Kleist-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Kleistpark 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335  / 321 048&quot;&gt;0335  / 321 048&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Kleist-Apotheke",
+				"strasse": "Am Kleistpark 1",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "247",
+				"distanz": "35.11",
+				"telefon": "0335  / 321 048",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5471645,
+					52.3432868
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Europa-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Heilbronner Stra&szlig;e 30&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 / 401 528 80&quot;&gt;0335 / 401 528 80&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Europa-Apotheke",
+				"strasse": "Heilbronner Straße 30",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "591",
+				"distanz": "35.21",
+				"telefon": "0335 / 401 528 80",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.54996,
+					52.34348
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Lenn&eacute;-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Marx-Stra&szlig;e 192&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 / 531 168&quot;&gt;0335 / 531 168&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Lenné-Apotheke",
+				"strasse": "Karl-Marx-Straße 192",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "398",
+				"distanz": "35.28",
+				"telefon": "0335 / 531 168",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.55776,
+					52.34322
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Frankfurter Apotheken Karolinen Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Uferstra&szlig;e 3&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 / 387 19 14&quot;&gt;0335 / 387 19 14&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Frankfurter Apotheken Karolinen Apotheke",
+				"strasse": "Uferstraße 3",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "605",
+				"distanz": "35.41",
+				"telefon": "0335 / 387 19 14",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.33952,
+					51.72383
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Uhland-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Uhlandstra&szlig;e 53&lt;/span&gt;&lt;br&gt;&lt;span&gt;03050 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    /541 571&quot;&gt;0355    /541 571&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Uhland-Apotheke",
+				"strasse": "Uhlandstraße 53",
+				"plz": "03050",
+				"ort": "Cottbus",
+				"id": "390",
+				"distanz": "35.45",
+				"telefon": "0355    /541 571",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.3238906,
+					51.7238362
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;P&uuml;ckler-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Werner-Seelenbinder-Ring 4 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;03048 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355 / 532 349&quot;&gt;0355 / 532 349&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Pückler-Apotheke",
+				"strasse": "Werner-Seelenbinder-Ring 4 a",
+				"plz": "03048",
+				"ort": "Cottbus",
+				"id": "384",
+				"distanz": "35.59",
+				"telefon": "0355 / 532 349",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5544443,
+					52.3457734
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;L&ouml;wen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gro&szlig;e Oderstra&szlig;e 42&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335   / 235 56&quot;&gt;0335   / 235 56&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Löwen-Apotheke",
+				"strasse": "Große Oderstraße 42",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "318",
+				"distanz": "35.61",
+				"telefon": "0335   / 235 56",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.059756,
+					52.2824315
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Klinikum&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Pieskower Stra&szlig;e 33&lt;/span&gt;&lt;br&gt;&lt;span&gt;15526 Bad Saarow-Pieskow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033631 / 2097&quot;&gt;033631 / 2097&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Klinikum",
+				"strasse": "Pieskower Straße 33",
+				"plz": "15526",
+				"ort": "Bad Saarow-Pieskow",
+				"id": "1",
+				"distanz": "35.66",
+				"telefon": "033631 / 2097",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5505673,
+					52.3472237
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke im Klinikum Frankfurt&lt;/h5&gt;&lt;p&gt;&lt;span&gt;M&uuml;llroser Chaussee 7&lt;/span&gt;&lt;br&gt;&lt;span&gt;15236 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335/5482172+ 2161&quot;&gt;0335/5482172+ 2161&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke im Klinikum Frankfurt",
+				"strasse": "Müllroser Chaussee 7",
+				"plz": "15236",
+				"ort": "Frankfurt (Oder)",
+				"id": "281",
+				"distanz": "35.69",
+				"telefon": "0335/5482172+ 2161",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.9032031,
+					51.9417433
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Br&uuml;cken-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gubener Stra&szlig;e 13&lt;/span&gt;&lt;br&gt;&lt;span&gt;15907 L&uuml;bben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03546   /2473&quot;&gt;03546   /2473&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Brücken-Apotheke",
+				"strasse": "Gubener Straße 13",
+				"plz": "15907",
+				"ort": "Lübben",
+				"id": "39",
+				"distanz": "35.83",
+				"telefon": "03546   /2473",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.5485596,
+					52.3505725
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Storchen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Berliner Stra&szlig;e 42&lt;/span&gt;&lt;br&gt;&lt;span&gt;15230 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335  / 680 30 02&quot;&gt;0335  / 680 30 02&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Storchen-Apotheke",
+				"strasse": "Berliner Straße 42",
+				"plz": "15230",
+				"ort": "Frankfurt (Oder)",
+				"id": "245",
+				"distanz": "36.01",
+				"telefon": "0335  / 680 30 02",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.53673,
+					52.35265
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Frankfurter Apotheken Hansa Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hansaplatz 5&lt;/span&gt;&lt;br&gt;&lt;span&gt;15234 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 / 632 26&quot;&gt;0335 / 632 26&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Frankfurter Apotheken Hansa Apotheke",
+				"strasse": "Hansaplatz 5",
+				"plz": "15234",
+				"ort": "Frankfurt (Oder)",
+				"id": "206",
+				"distanz": "36.02",
+				"telefon": "0335 / 632 26",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.95638,
+					51.86591
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Spree-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Stottoff 22&lt;/span&gt;&lt;br&gt;&lt;span&gt;03222 L&uuml;bbenau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03542   / 460 85&quot;&gt;03542   / 460 85&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Spree-Apotheke",
+				"strasse": "Stottoff 22",
+				"plz": "03222",
+				"ort": "Lübbenau",
+				"id": "442",
+				"distanz": "36.14",
+				"telefon": "03542   / 460 85",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.0856,
+					51.78002
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Katharinen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Pestalozzistra&szlig;e 10&lt;/span&gt;&lt;br&gt;&lt;span&gt;03226 Vetschau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035433  / 3314&quot;&gt;035433  / 3314&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Katharinen-Apotheke",
+				"strasse": "Pestalozzistraße 10",
+				"plz": "03226",
+				"ort": "Vetschau",
+				"id": "353",
+				"distanz": "36.15",
+				"telefon": "035433  / 3314",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.897085,
+					51.9413206
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Delphinen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hauptstra&szlig;e 18&lt;/span&gt;&lt;br&gt;&lt;span&gt;15907 L&uuml;bben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03546   /3037&quot;&gt;03546   /3037&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Delphinen-Apotheke",
+				"strasse": "Hauptstraße 18",
+				"plz": "15907",
+				"ort": "Lübben",
+				"id": "81",
+				"distanz": "36.25",
+				"telefon": "03546   /3037",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.0613,
+					52.29061
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Kurpark&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Kurpark 6&lt;/span&gt;&lt;br&gt;&lt;span&gt;15526 Bad Saarow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033631  / 2498&quot;&gt;033631  / 2498&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Kurpark",
+				"strasse": "Am Kurpark 6",
+				"plz": "15526",
+				"ort": "Bad Saarow",
+				"id": "118",
+				"distanz": "36.28",
+				"telefon": "033631  / 2498",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.96266,
+					51.85741
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Marggraf-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Robert-Koch-Stra&szlig;e 43&lt;/span&gt;&lt;br&gt;&lt;span&gt;03222 L&uuml;bbenau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03542  / 2588&quot;&gt;03542  / 2588&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Marggraf-Apotheke",
+				"strasse": "Robert-Koch-Straße 43",
+				"plz": "03222",
+				"ort": "Lübbenau",
+				"id": "252",
+				"distanz": "36.30",
+				"telefon": "03542  / 2588",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.07334,
+					51.78326
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Markt&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 7/8&lt;/span&gt;&lt;br&gt;&lt;span&gt;03226 Vetschau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035433  / 2981&quot;&gt;035433  / 2981&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Markt",
+				"strasse": "Markt 7/8",
+				"plz": "03226",
+				"ort": "Vetschau",
+				"id": "323",
+				"distanz": "36.37",
+				"telefon": "035433  / 2981",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.31857,
+					51.71611
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke im Lausitz-Park&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Madlower Chaussee 4&lt;/span&gt;&lt;br&gt;&lt;span&gt;03051 Cottbus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0355    /541609&quot;&gt;0355    /541609&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke im Lausitz-Park",
+				"strasse": "Madlower Chaussee 4",
+				"plz": "03051",
+				"ort": "Cottbus",
+				"id": "378",
+				"distanz": "36.50",
+				"telefon": "0355    /541609",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.52482,
+					52.3622
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Sonnen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Spitzkrugring 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;15234 Frankfurt (Oder)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0335 /6802919&quot;&gt;0335 /6802919&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Sonnen-Apotheke",
+				"strasse": "Spitzkrugring 1",
+				"plz": "15234",
+				"ort": "Frankfurt (Oder)",
+				"id": "606",
+				"distanz": "36.85",
+				"telefon": "0335 /6802919",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6432652,
+					51.744655
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke Cottbuser Stra&szlig;e&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Cottbuser Stra&szlig;e 26&lt;/span&gt;&lt;br&gt;&lt;span&gt;03149 Forst (Lausitz)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03562 / 6433&quot;&gt;03562 / 6433&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke Cottbuser Straße",
+				"strasse": "Cottbuser Straße 26",
+				"plz": "03149",
+				"ort": "Forst (Lausitz)",
+				"id": "49",
+				"distanz": "36.85",
+				"telefon": "03562 / 6433",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.64592,
+					51.74284
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Rosen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedrichplatz 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;03149 Forst (Lausitz)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03562   /2021&quot;&gt;03562   /2021&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Rosen-Apotheke",
+				"strasse": "Friedrichplatz 2",
+				"plz": "03149",
+				"ort": "Forst (Lausitz)",
+				"id": "411",
+				"distanz": "37.11",
+				"telefon": "03562   /2021",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.6463,
+					51.74263
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Hufeland-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Amtstra&szlig;e 13&lt;/span&gt;&lt;br&gt;&lt;span&gt;03149 Forst (Lausitz)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03562 / 7107&quot;&gt;03562 / 7107&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Hufeland-Apotheke",
+				"strasse": "Amtstraße 13",
+				"plz": "03149",
+				"ort": "Forst (Lausitz)",
+				"id": "102",
+				"distanz": "37.15",
+				"telefon": "03562 / 7107",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.93798,
+					51.86631
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Die Apotheke im Kaufland&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Kaufland 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;03222 L&uuml;bbenau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03542 / 452 31&quot;&gt;03542 / 452 31&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Die Apotheke im Kaufland",
+				"strasse": "Am Kaufland 1",
+				"plz": "03222",
+				"ort": "Lübbenau",
+				"id": "484",
+				"distanz": "37.19",
+				"telefon": "03542 / 452 31",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.87962,
+					51.94156
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Hain&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bergstra&szlig;e 7&lt;/span&gt;&lt;br&gt;&lt;span&gt;15907 L&uuml;bben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03546 / 27230&quot;&gt;03546 / 27230&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Hain",
+				"strasse": "Bergstraße 7",
+				"plz": "15907",
+				"ort": "Lübben",
+				"id": "477",
+				"distanz": "37.38",
+				"telefon": "03546 / 27230",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.94033,
+					51.86056
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Forum-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Otto-Grotewohl-Stra&szlig;e 4 a-d&lt;/span&gt;&lt;br&gt;&lt;span&gt;03222 L&uuml;bbenau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03542  / 891 40&quot;&gt;03542  / 891 40&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Forum-Apotheke",
+				"strasse": "Otto-Grotewohl-Straße 4 a-d",
+				"plz": "03222",
+				"ort": "Lübbenau",
+				"id": "461",
+				"distanz": "37.39",
+				"telefon": "03542  / 891 40",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.8768,
+					51.94607
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Sert&uuml;rner-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schillerstra&szlig;e 10 b&lt;/span&gt;&lt;br&gt;&lt;span&gt;15907 L&uuml;bben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03546   /3141&quot;&gt;03546   /3141&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Sertürner-Apotheke",
+				"strasse": "Schillerstraße 10 b",
+				"plz": "15907",
+				"ort": "Lübben",
+				"id": "37",
+				"distanz": "37.42",
+				"telefon": "03546   /3141",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.875379,
+					51.9448616
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Krankenhausapotheke der Spreewaldklinik L&uuml;bben&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schillerstra&szlig;e 29&lt;/span&gt;&lt;br&gt;&lt;span&gt;15907 L&uuml;bben&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03546 / 75315&quot;&gt;03546 / 75315&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Krankenhausapotheke der Spreewaldklinik Lübben",
+				"strasse": "Schillerstraße 29",
+				"plz": "15907",
+				"ort": "Lübben",
+				"id": "212",
+				"distanz": "37.55",
+				"telefon": "03546 / 75315",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.08203,
+					52.33577
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Park-Apotheke S&uuml;d&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Alte Langewahler Chaussee 11&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 376 389&quot;&gt;03361 / 376 389&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Park-Apotheke Süd",
+				"strasse": "Alte Langewahler Chaussee 11",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "546",
+				"distanz": "39.47",
+				"telefon": "03361 / 376 389",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.08511,
+					52.34158
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Galenus-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bahnhofstra&szlig;e 22 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 573 64&quot;&gt;03361 / 573 64&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Galenus-Apotheke",
+				"strasse": "Bahnhofstraße 22 a",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "187",
+				"distanz": "39.90",
+				"telefon": "03361 / 573 64",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.9289,
+					52.252
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;M&auml;rkische Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Rudolf-Breitscheid-Stra&szlig;e 72&lt;/span&gt;&lt;br&gt;&lt;span&gt;15859 Storkow (Mark)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033678  / 6880&quot;&gt;033678  / 6880&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Märkische Apotheke",
+				"strasse": "Rudolf-Breitscheid-Straße 72",
+				"plz": "15859",
+				"ort": "Storkow (Mark)",
+				"id": "184",
+				"distanz": "39.96",
+				"telefon": "033678  / 6880",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.93102,
+					52.25461
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Storch-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 7&lt;/span&gt;&lt;br&gt;&lt;span&gt;15859 Storkow (Mark)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033678  / 720 14&quot;&gt;033678  / 720 14&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Storch-Apotheke",
+				"strasse": "Am Markt 7",
+				"plz": "15859",
+				"ort": "Storkow (Mark)",
+				"id": "277",
+				"distanz": "40.02",
+				"telefon": "033678  / 720 14",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.07006,
+					52.34796
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;S&uuml;d-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;August-Bebel-Stra&szlig;e 25&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 2450&quot;&gt;03361 / 2450&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Süd-Apotheke",
+				"strasse": "August-Bebel-Straße 25",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "273",
+				"distanz": "41.05",
+				"telefon": "03361 / 2450",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.0639362,
+					52.3585241
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Rathaus-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 5/6&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 301 226&quot;&gt;03361 / 301 226&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Rathaus-Apotheke",
+				"strasse": "Am Markt 5/6",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "397",
+				"distanz": "42.26",
+				"telefon": "03361 / 301 226",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.0618821,
+					52.3631934
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Linden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Eisenbahnstra&szlig;e 27&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 310 567&quot;&gt;03361 / 310 567&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Linden-Apotheke",
+				"strasse": "Eisenbahnstraße 27",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "95",
+				"distanz": "42.77",
+				"telefon": "03361 / 310 567",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.071813,
+					52.3697841
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Nord-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Johann-Sebastian-Bach-Stra&szlig;e 25&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361   /321 67&quot;&gt;03361   /321 67&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Nord-Apotheke",
+				"strasse": "Johann-Sebastian-Bach-Straße 25",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "86",
+				"distanz": "43.04",
+				"telefon": "03361   /321 67",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.05787,
+					52.36562
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Park-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Marx-Stra&szlig;e 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 307 485&quot;&gt;03361 / 307 485&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Park-Apotheke",
+				"strasse": "Karl-Marx-Straße 14",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "490",
+				"distanz": "43.15",
+				"telefon": "03361 / 307 485",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.07931,
+					52.37816
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Ginkgo-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Juri-Gagarin-Stra&szlig;e 32&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 37 72 87&quot;&gt;03361 / 37 72 87&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Ginkgo-Apotheke",
+				"strasse": "Juri-Gagarin-Straße 32",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "620",
+				"distanz": "43.57",
+				"telefon": "03361 / 37 72 87",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.069,
+					52.37557
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Regenbogen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Liebknecht-Stra&szlig;e 21&lt;/span&gt;&lt;br&gt;&lt;span&gt;15517 F&uuml;rstenwalde&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03361 / 2419&quot;&gt;03361 / 2419&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Regenbogen-Apotheke",
+				"strasse": "Karl-Liebknecht-Straße 21",
+				"plz": "15517",
+				"ort": "Fürstenwalde",
+				"id": "162",
+				"distanz": "43.68",
+				"telefon": "03361 / 2419",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.53308,
+					52.42648
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Burg-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Frankfurter Stra&szlig;e 48&lt;/span&gt;&lt;br&gt;&lt;span&gt;15326 Lebus&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033604  / 5275&quot;&gt;033604  / 5275&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Burg-Apotheke",
+				"strasse": "Frankfurter Straße 48",
+				"plz": "15326",
+				"ort": "Lebus",
+				"id": "456",
+				"distanz": "43.96",
+				"telefon": "033604  / 5275",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.2201417,
+					51.6574664
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke &quot;Zum Kreuz&quot;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Drebkauer Hauptstra&szlig;e 36&lt;/span&gt;&lt;br&gt;&lt;span&gt;03116 Drebkau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035602  / 601&quot;&gt;035602  / 601&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke Zum Kreuz",
+				"strasse": "Drebkauer Hauptstraße 36",
+				"plz": "03116",
+				"ort": "Drebkau",
+				"id": "112",
+				"distanz": "44.36",
+				"telefon": "035602  / 601",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.96228,
+					51.7445
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke-Schubert&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Jahnstra&szlig;e 1 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;03205 Calau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03541   /801243&quot;&gt;03541   /801243&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke-Schubert",
+				"strasse": "Jahnstraße 1 a",
+				"plz": "03205",
+				"ort": "Calau",
+				"id": "270",
+				"distanz": "44.61",
+				"telefon": "03541   /801243",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.9499144,
+					51.7470009
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Anwandter-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Cottbuser Stra&szlig;e 8&lt;/span&gt;&lt;br&gt;&lt;span&gt;03205 Calau&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03541 / 2734&quot;&gt;03541 / 2734&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Anwandter-Apotheke",
+				"strasse": "Cottbuser Straße 8",
+				"plz": "03205",
+				"ort": "Calau",
+				"id": "280",
+				"distanz": "44.99",
+				"telefon": "03541 / 2734",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.74446,
+					51.96228
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Apotheke am Markt&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hauptstra&szlig;e 53 A&lt;/span&gt;&lt;br&gt;&lt;span&gt;15910 Unterspreewald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035473 / 814 878&quot;&gt;035473 / 814 878&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Apotheke am Markt",
+				"strasse": "Hauptstraße 53 A",
+				"plz": "15910",
+				"ort": "Unterspreewald",
+				"id": "599",
+				"distanz": "45.82",
+				"telefon": "035473 / 814 878",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.59048,
+					51.62139
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Hirsch-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Forster Stra&szlig;e 62&lt;/span&gt;&lt;br&gt;&lt;span&gt;03159 D&ouml;bern&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035600  / 6378&quot;&gt;035600  / 6378&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Hirsch-Apotheke",
+				"strasse": "Forster Straße 62",
+				"plz": "03159",
+				"ort": "Döbern",
+				"id": "72",
+				"distanz": "48.39",
+				"telefon": "035600  / 6378",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.70157,
+					52.10609
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Kranich-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kirchstra&szlig;e 3&lt;/span&gt;&lt;br&gt;&lt;span&gt;15757 Halbe&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033765 / 805 86&quot;&gt;033765 / 805 86&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Kranich-Apotheke",
+				"strasse": "Kirchstraße 3",
+				"plz": "15757",
+				"ort": "Halbe",
+				"id": "436",
+				"distanz": "48.42",
+				"telefon": "033765 / 805 86",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					14.59334,
+					51.6185699
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Post-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Forster Stra&szlig;e 18&lt;/span&gt;&lt;br&gt;&lt;span&gt;03159 D&ouml;bern&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:035600  / 304 30&quot;&gt;035600  / 304 30&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Post-Apotheke",
+				"strasse": "Forster Straße 18",
+				"plz": "03159",
+				"ort": "Döbern",
+				"id": "428",
+				"distanz": "48.74",
+				"telefon": "035600  / 304 30",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"coordinates": [
+					13.876,
+					52.34494
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"popup": "&lt;h5&gt;Klymene-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedhofstra&szlig;e 10&lt;/span&gt;&lt;br&gt;&lt;span&gt;15528 Spreenhagen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:033633 / 687 636&quot;&gt;033633 / 687 636&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+				"name": "Klymene-Apotheke",
+				"strasse": "Friedhofstraße 10",
+				"plz": "15528",
+				"ort": "Spreenhagen",
+				"id": "614",
+				"distanz": "49.35",
+				"telefon": "033633 / 687 636",
+				"fax": "",
+				"email": "",
+				"person": {
+					"personAnrede": "",
+					"vorname": "",
+					"nachname": "",
+					"position": ""
+				}
+			}
+		}
+	]
+}

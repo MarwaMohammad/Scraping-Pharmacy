@@ -1,0 +1,3313 @@
+{
+  "type": "FeatureCollection",
+  
+      "meta" : {
+        "lat" : "53.8985045149116",
+        "lng" : "12.7301682445644"
+      },
+    
+  "features":[
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.8515406, 53.8985743],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Schloss-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schlossstra&szlig;e 23&lt;/span&gt;&lt;br&gt;&lt;span&gt;17159 Dargun&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039959/337177&quot;&gt;039959/337177&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Schloss-Apotheke",
+            "strasse": "Schlossstraße 23",
+            "plz": "17159",
+            "ort": "Dargun",
+            "id": "178757",
+            "distanz": "7.96",
+            "telefon": "039959/337177",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.7101219, 53.9693144],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Hubertus-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedensstr. 29&lt;/span&gt;&lt;br&gt;&lt;span&gt;17179 Gnoien&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039971/1830&quot;&gt;039971/1830&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Hubertus-Apotheke",
+            "strasse": "Friedensstr. 29",
+            "plz": "17179",
+            "ort": "Gnoien",
+            "id": "172433",
+            "distanz": "7.99",
+            "telefon": "039971/1830",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.7090727, 53.9699766],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Stadt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedensstra&szlig;e 47&lt;/span&gt;&lt;br&gt;&lt;span&gt;17179 Gnoien&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039971/13396&quot;&gt;039971/13396&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Stadt-Apotheke",
+            "strasse": "Friedensstraße 47",
+            "plz": "17179",
+            "ort": "Gnoien",
+            "id": "174558",
+            "distanz": "8.08",
+            "telefon": "039971/13396",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.8546968, 53.8973245],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke zum Klostersee&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schlo&szlig;str. 60&lt;/span&gt;&lt;br&gt;&lt;span&gt;17159 Dargun&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039959/20372&quot;&gt;039959/20372&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke zum Klostersee",
+            "strasse": "Schloßstr. 60",
+            "plz": "17159",
+            "ort": "Dargun",
+            "id": "171923",
+            "distanz": "8.17",
+            "telefon": "039959/20372",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.7911778, 53.8226849],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;17154 Neukalen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039956/20201&quot;&gt;039956/20201&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Markt 14",
+            "plz": "17154",
+            "ort": "Neukalen",
+            "id": "171940",
+            "distanz": "9.34",
+            "telefon": "039956/20201",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.5755183, 53.7735589],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Marktplatz 4&lt;/span&gt;&lt;br&gt;&lt;span&gt;17166 Teterow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03996/172041&quot;&gt;03996/172041&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Marktplatz 4",
+            "plz": "17166",
+            "ort": "Teterow",
+            "id": "172416",
+            "distanz": "17.22",
+            "telefon": "03996/172041",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.5663099, 53.7770801],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Bergring-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Poggestra&szlig;e 8&lt;/span&gt;&lt;br&gt;&lt;span&gt;17166 Teterow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03996/182971&quot;&gt;03996/182971&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Bergring-Apotheke",
+            "strasse": "Poggestraße 8",
+            "plz": "17166",
+            "ort": "Teterow",
+            "id": "175289",
+            "distanz": "17.28",
+            "telefon": "03996/182971",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.57427, 53.77169],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Auerhahn-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Warener Str. 26&lt;/span&gt;&lt;br&gt;&lt;span&gt;17166 Teterow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03996/187007&quot;&gt;03996/187007&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Auerhahn-Apotheke",
+            "strasse": "Warener Str. 26",
+            "plz": "17166",
+            "ort": "Teterow",
+            "id": "174541",
+            "distanz": "17.44",
+            "telefon": "03996/187007",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.76269, 53.73974],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Neue Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 6&lt;/span&gt;&lt;br&gt;&lt;span&gt;17139 Malchin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03994/223412&quot;&gt;03994/223412&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Neue Apotheke",
+            "strasse": "Am Markt 6",
+            "plz": "17139",
+            "ort": "Malchin",
+            "id": "173538",
+            "distanz": "17.80",
+            "telefon": "03994/223412",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.76343, 53.73899],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 11&lt;/span&gt;&lt;br&gt;&lt;span&gt;17139 Malchin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03994/222311&quot;&gt;03994/222311&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Am Markt 11",
+            "plz": "17139",
+            "ort": "Malchin",
+            "id": "171889",
+            "distanz": "17.89",
+            "telefon": "03994/222311",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.75534, 53.73829],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Schwanen Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Heinrich-Heine-Str. 39&lt;/span&gt;&lt;br&gt;&lt;span&gt;17139 Malchin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03994239647&quot;&gt;03994239647&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Schwanen Apotheke",
+            "strasse": "Heinrich-Heine-Str. 39",
+            "plz": "17139",
+            "ort": "Malchin",
+            "id": "178485",
+            "distanz": "17.91",
+            "telefon": "03994239647",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.03532, 53.90762],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Greif-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Breitscheidstr. 25&lt;/span&gt;&lt;br&gt;&lt;span&gt;17109 Demmin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03998/202505&quot;&gt;03998/202505&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Greif-Apotheke",
+            "strasse": "Breitscheidstr. 25",
+            "plz": "17109",
+            "ort": "Demmin",
+            "id": "175782",
+            "distanz": "20.04",
+            "telefon": "03998/202505",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.04078, 53.90655],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;L&ouml;wen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;M&uuml;hlenstra&szlig;e 30&lt;/span&gt;&lt;br&gt;&lt;span&gt;17109 Demmin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03998/223152&quot;&gt;03998/223152&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Löwen-Apotheke",
+            "strasse": "Mühlenstraße 30",
+            "plz": "17109",
+            "ort": "Demmin",
+            "id": "173657",
+            "distanz": "20.39",
+            "telefon": "03998/223152",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.04209, 53.90472],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Muhrbeck -Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gartenstr. 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;17109 Demmin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03998/362151&quot;&gt;03998/362151&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Muhrbeck -Apotheke",
+            "strasse": "Gartenstr. 2",
+            "plz": "17109",
+            "ort": "Demmin",
+            "id": "174490",
+            "distanz": "20.47",
+            "telefon": "03998/362151",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.04724, 53.90266],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Pommern-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Adolf-Pompe-Str. 24&lt;/span&gt;&lt;br&gt;&lt;span&gt;17109 Demmin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03998/362366&quot;&gt;03998/362366&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Pommern-Apotheke",
+            "strasse": "Adolf-Pompe-Str. 24",
+            "plz": "17109",
+            "ort": "Demmin",
+            "id": "174779",
+            "distanz": "20.80",
+            "telefon": "03998/362366",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.75786, 54.09415],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Marx-Str. 13&lt;/span&gt;&lt;br&gt;&lt;span&gt;18465 Tribsees&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038320/6180&quot;&gt;038320/6180&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Karl-Marx-Str. 13",
+            "plz": "18465",
+            "ort": "Tribsees",
+            "id": "170835",
+            "distanz": "21.85",
+            "telefon": "038320/6180",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.4670341, 54.0263197],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;St.-J&uuml;rgen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;St.-J&uuml;rgen-Str. 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;18195 Tessin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038205/13231&quot;&gt;038205/13231&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "St.-Jürgen-Apotheke",
+            "strasse": "St.-Jürgen-Str. 14",
+            "plz": "18195",
+            "ort": "Tessin",
+            "id": "171617",
+            "distanz": "22.35",
+            "telefon": "038205/13231",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.4611487, 54.0275934],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke im Tessinum&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Karl-Marx-Stra&szlig;e 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;18195 Tessin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03820571766&quot;&gt;03820571766&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke im Tessinum",
+            "strasse": "Karl-Marx-Straße 14",
+            "plz": "18195",
+            "ort": "Tessin",
+            "id": "178383",
+            "distanz": "22.74",
+            "telefon": "03820571766",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.6597726, 54.1100631],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Recknitztal-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;18334 Bad S&uuml;lze&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038229/7020&quot;&gt;038229/7020&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Recknitztal-Apotheke",
+            "strasse": "Am Markt 15",
+            "plz": "18334",
+            "ort": "Bad Sülze",
+            "id": "170172",
+            "distanz": "24.00",
+            "telefon": "038229/7020",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.9069477, 53.6976662],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Eichen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Basepohler Str. 11&lt;/span&gt;&lt;br&gt;&lt;span&gt;17153 Reuterstadt Stavenhagen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039954/30778&quot;&gt;039954/30778&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Eichen-Apotheke",
+            "strasse": "Basepohler Str. 11",
+            "plz": "17153",
+            "ort": "Reuterstadt Stavenhagen",
+            "id": "175442",
+            "distanz": "25.20",
+            "telefon": "039954/30778",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.34588, 53.9278411],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Recknitztal-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Breesener Str. 37&lt;/span&gt;&lt;br&gt;&lt;span&gt;18299 Laage&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038459/36235&quot;&gt;038459/36235&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Recknitztal-Apotheke",
+            "strasse": "Breesener Str. 37",
+            "plz": "18299",
+            "ort": "Laage",
+            "id": "176921",
+            "distanz": "25.41",
+            "telefon": "038459/36235",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.9085838, 53.6957642],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Fritz-Reuter-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 16&lt;/span&gt;&lt;br&gt;&lt;span&gt;17153 Reuterstadt Stavenhagen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039954/21082&quot;&gt;039954/21082&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Fritz-Reuter-Apotheke",
+            "strasse": "Am Markt 16",
+            "plz": "17153",
+            "ort": "Reuterstadt Stavenhagen",
+            "id": "171872",
+            "distanz": "25.44",
+            "telefon": "039954/21082",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.91424, 53.68796],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Schweden Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Werdohler Str. 3&lt;/span&gt;&lt;br&gt;&lt;span&gt;17153 Reuterstadt Stavenhagen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03995424850&quot;&gt;03995424850&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Schweden Apotheke",
+            "strasse": "Werdohler Str. 3",
+            "plz": "17153",
+            "ort": "Reuterstadt Stavenhagen",
+            "id": "178315",
+            "distanz": "26.38",
+            "telefon": "03995424850",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.12941, 53.97376],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Marien-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Postberg 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;17121 Loitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039998/10381&quot;&gt;039998/10381&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Marien-Apotheke",
+            "strasse": "Am Postberg 1",
+            "plz": "17121",
+            "ort": "Loitz",
+            "id": "171855",
+            "distanz": "27.47",
+            "telefon": "039998/10381",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.130509, 53.9735097],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Schweden Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Goethestr. 5&lt;/span&gt;&lt;br&gt;&lt;span&gt;17121 Loitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039998336288&quot;&gt;039998336288&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Schweden Apotheke",
+            "strasse": "Goethestr. 5",
+            "plz": "17121",
+            "ort": "Loitz",
+            "id": "178689",
+            "distanz": "27.53",
+            "telefon": "039998336288",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.38463, 53.75746],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Park&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Zu den Wiesen 9&lt;/span&gt;&lt;br&gt;&lt;span&gt;18279 Lalendorf&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038452/20592&quot;&gt;038452/20592&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Park",
+            "strasse": "Zu den Wiesen 9",
+            "plz": "18279",
+            "ort": "Lalendorf",
+            "id": "177210",
+            "distanz": "27.60",
+            "telefon": "038452/20592",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.38395, 54.07797],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Buchen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedrich-von-Flotow-Ring 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;18190 Sanitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038209490016&quot;&gt;038209490016&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Buchen-Apotheke",
+            "strasse": "Friedrich-von-Flotow-Ring 15",
+            "plz": "18190",
+            "ort": "Sanitz",
+            "id": "178298",
+            "distanz": "30.21",
+            "telefon": "038209490016",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.57306, 54.15424],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 27&lt;/span&gt;&lt;br&gt;&lt;span&gt;18337 Marlow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038221/262&quot;&gt;038221/262&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Am Markt 27",
+            "plz": "18337",
+            "ort": "Marlow",
+            "id": "171311",
+            "distanz": "30.27",
+            "telefon": "038221/262",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.37375, 54.07518],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Weiden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;John Brinckmann Str. 10 a&lt;/span&gt;&lt;br&gt;&lt;span&gt;18190 Sanitz&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038209/288&quot;&gt;038209/288&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Weiden-Apotheke",
+            "strasse": "John Brinckmann Str. 10 a",
+            "plz": "18190",
+            "ort": "Sanitz",
+            "id": "171447",
+            "distanz": "30.51",
+            "telefon": "038209/288",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.04246, 54.10639],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rosen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Carl v.Ossietzky Str.1 c&lt;/span&gt;&lt;br&gt;&lt;span&gt;18507 Grimmen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038326/80264&quot;&gt;038326/80264&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rosen-Apotheke",
+            "strasse": "Carl v.Ossietzky Str.1 c",
+            "plz": "18507",
+            "ort": "Grimmen",
+            "id": "175272",
+            "distanz": "30.87",
+            "telefon": "038326/80264",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.04009, 54.11176],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am M&uuml;hlentor&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bahnhofstra&szlig;e 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;18507 Grimmen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038326/455440&quot;&gt;038326/455440&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Mühlentor",
+            "strasse": "Bahnhofstraße 2",
+            "plz": "18507",
+            "ort": "Grimmen",
+            "id": "178009",
+            "distanz": "31.22",
+            "telefon": "038326/455440",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.04248, 54.11266],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;M&uuml;hlenstr. 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;18507 Grimmen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038326/2390&quot;&gt;038326/2390&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Mühlenstr. 2",
+            "plz": "18507",
+            "ort": "Grimmen",
+            "id": "170818",
+            "distanz": "31.40",
+            "telefon": "038326/2390",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.2356, 53.91932],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Zweig-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Dammstrasse 76&lt;/span&gt;&lt;br&gt;&lt;span&gt;17129 Tutow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03999970639&quot;&gt;03999970639&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Zweig-Apotheke",
+            "strasse": "Dammstrasse 76",
+            "plz": "17129",
+            "ort": "Tutow",
+            "id": "178213",
+            "distanz": "33.22",
+            "telefon": "03999970639",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.8789144, 54.1881154],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke zu den Hellbergen&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Seminarstra&szlig;e 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18461 Franzburg&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038322/719&quot;&gt;038322/719&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke zu den Hellbergen",
+            "strasse": "Seminarstraße 1",
+            "plz": "18461",
+            "ort": "Franzburg",
+            "id": "170070",
+            "distanz": "33.67",
+            "telefon": "038322/719",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.88584, 54.201],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Markt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 8&lt;/span&gt;&lt;br&gt;&lt;span&gt;18461 Richtenberg&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038322/235&quot;&gt;038322/235&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Markt-Apotheke",
+            "strasse": "Am Markt 8",
+            "plz": "18461",
+            "ort": "Richtenberg",
+            "id": "171566",
+            "distanz": "35.18",
+            "telefon": "038322/235",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.22666, 54.01691],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke Dummerstorf&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schmiedeweg 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18196 Dummerstorf&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03820813915&quot;&gt;03820813915&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke Dummerstorf",
+            "strasse": "Schmiedeweg 1",
+            "plz": "18196",
+            "ort": "Dummerstorf",
+            "id": "177533",
+            "distanz": "35.52",
+            "telefon": "03820813915",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.0385037, 53.6275207],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rosenhof-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Stavenhagener  Str. 25&lt;/span&gt;&lt;br&gt;&lt;span&gt;17091 Rosenow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039602/20480&quot;&gt;039602/20480&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rosenhof-Apotheke",
+            "strasse": "Stavenhagener  Str. 25",
+            "plz": "17091",
+            "ort": "Rosenow",
+            "id": "174320",
+            "distanz": "36.35",
+            "telefon": "039602/20480",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.19152, 53.808],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Godewind-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Haselstr. 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/215630&quot;&gt;03843/215630&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Godewind-Apotheke",
+            "strasse": "Haselstr. 2",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "175374",
+            "distanz": "36.78",
+            "telefon": "03843/215630",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.18897, 53.80876],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Distelberg&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Eicheneck 6&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/212068&quot;&gt;03843/212068&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Distelberg",
+            "strasse": "Am Eicheneck 6",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "173963",
+            "distanz": "36.91",
+            "telefon": "03843/212068",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1769315, 53.7937234],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Schloss -Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;M&uuml;hlenstr. 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/682307&quot;&gt;03843/682307&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Schloss -Apotheke",
+            "strasse": "Mühlenstr. 1",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "172858",
+            "distanz": "38.16",
+            "telefon": "03843/682307",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1768397, 53.7935463],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;apo-rot Apotheke G&uuml;strow&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 13&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843466969&quot;&gt;03843466969&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "apo-rot Apotheke Güstrow",
+            "strasse": "Markt 13",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "178587",
+            "distanz": "38.17",
+            "telefon": "03843466969",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.27233, 53.77414],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Land-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Gr&uuml;nen Tor 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;17089 Burow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03965/210610&quot;&gt;03965/210610&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Land-Apotheke",
+            "strasse": "Am Grünen Tor 2",
+            "plz": "17089",
+            "ort": "Burow",
+            "id": "174269",
+            "distanz": "38.21",
+            "telefon": "03965/210610",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1759439, 53.7929386],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 24&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/682030&quot;&gt;03843/682030&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Markt 24",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "172841",
+            "distanz": "38.25",
+            "telefon": "03843/682030",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1740631, 53.7948593],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Borwin-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Pferdemarkt 11&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/686037&quot;&gt;03843/686037&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Borwin-Apotheke",
+            "strasse": "Pferdemarkt 11",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "173895",
+            "distanz": "38.30",
+            "telefon": "03843/686037",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.18373, 53.7771],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Delphin-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Pfahlweg 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843332898&quot;&gt;03843332898&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Delphin-Apotheke",
+            "strasse": "Pfahlweg 1",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "175748",
+            "distanz": "38.35",
+            "telefon": "03843332898",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.17147, 53.79769],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Fritz-Reuter-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Eisenbahnstr. 7&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/682166&quot;&gt;03843/682166&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Fritz-Reuter-Apotheke",
+            "strasse": "Eisenbahnstr. 7",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "172824",
+            "distanz": "38.37",
+            "telefon": "03843/682166",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1714502, 53.7934156],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Wall&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hageb&ouml;cker Str. 19&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/684096&quot;&gt;03843/684096&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Wall",
+            "strasse": "Hageböcker Str. 19",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "175255",
+            "distanz": "38.51",
+            "telefon": "03843/684096",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.2643636, 53.6867454],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Str. 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;18292 Krakow a. See&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038457/22322&quot;&gt;038457/22322&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Lange Str. 14",
+            "plz": "18292",
+            "ort": "Krakow a. See",
+            "id": "172926",
+            "distanz": "38.65",
+            "telefon": "038457/22322",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1759445, 53.7805327],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;S&uuml;dstadt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Goldberger Str. 70 c&lt;/span&gt;&lt;br&gt;&lt;span&gt;18273 G&uuml;strow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03843/331011&quot;&gt;03843/331011&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Südstadt-Apotheke",
+            "strasse": "Goldberger Str. 70 c",
+            "plz": "18273",
+            "ort": "Güstrow",
+            "id": "172875",
+            "distanz": "38.70",
+            "telefon": "03843/331011",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.20115, 54.07492],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke im Globus&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Globusring 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18184 Roggentin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038204/15343&quot;&gt;038204/15343&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke im Globus",
+            "strasse": "Globusring 1",
+            "plz": "18184",
+            "ort": "Roggentin",
+            "id": "177873",
+            "distanz": "39.81",
+            "telefon": "038204/15343",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.3381006, 53.9241],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke &quot; Zu den drei  Rosen&quot;&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Demminer Str. 9&lt;/span&gt;&lt;br&gt;&lt;span&gt;17126 Jarmen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039997/1560&quot;&gt;039997/1560&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke Zu den drei  Rosen",
+            "strasse": "Demminer Str. 9",
+            "plz": "17126",
+            "ort": "Jarmen",
+            "id": "171838",
+            "distanz": "39.96",
+            "telefon": "039997/1560",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.6289237, 53.5367241],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Fontane-Apotheke im Altstadtcenter&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Friedensstr. 15&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991632315&quot;&gt;03991632315&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Fontane-Apotheke im Altstadtcenter",
+            "strasse": "Friedensstr. 15",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "178604",
+            "distanz": "40.82",
+            "telefon": "03991632315",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.2717465, 53.6489594],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Kur-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Dobbiner Chaussee 16 A&lt;/span&gt;&lt;br&gt;&lt;span&gt;18292 Krakow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038457/50212&quot;&gt;038457/50212&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Kur-Apotheke",
+            "strasse": "Dobbiner Chaussee 16 A",
+            "plz": "18292",
+            "ort": "Krakow",
+            "id": "178060",
+            "distanz": "41.00",
+            "telefon": "038457/50212",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.2450426, 53.6894838],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;B&auml;ren-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Jahnstr. 17&lt;/span&gt;&lt;br&gt;&lt;span&gt;17087 Altentreptow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03961216540&quot;&gt;03961216540&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Bären-Apotheke",
+            "strasse": "Jahnstr. 17",
+            "plz": "17087",
+            "ort": "Altentreptow",
+            "id": "177023",
+            "distanz": "41.08",
+            "telefon": "03961216540",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.247192, 53.6911604],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Linden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Poststra&szlig;e 12 b&lt;/span&gt;&lt;br&gt;&lt;span&gt;17087 Altentreptow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03961/214626&quot;&gt;03961/214626&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Linden-Apotheke",
+            "strasse": "Poststraße 12 b",
+            "plz": "17087",
+            "ort": "Altentreptow",
+            "id": "171804",
+            "distanz": "41.09",
+            "telefon": "03961/214626",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1069216, 53.9394156],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Adler-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 8&lt;/span&gt;&lt;br&gt;&lt;span&gt;18258 Schwaan&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03844/813696&quot;&gt;03844/813696&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Adler-Apotheke",
+            "strasse": "Markt 8",
+            "plz": "18258",
+            "ort": "Schwaan",
+            "id": "173198",
+            "distanz": "41.11",
+            "telefon": "03844/813696",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1017373, 53.9383355],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Schwanen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;EKZ M&uuml;hlenteichplatz&lt;/span&gt;&lt;br&gt;&lt;span&gt;18258 Schwaan&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03844/814219&quot;&gt;03844/814219&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Schwanen-Apotheke",
+            "strasse": "EKZ Mühlenteichplatz",
+            "plz": "18258",
+            "ort": "Schwaan",
+            "id": "175034",
+            "distanz": "41.44",
+            "telefon": "03844/814219",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.80949, 54.27129],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke Velgast&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Stra&szlig;e der Jugend 37&lt;/span&gt;&lt;br&gt;&lt;span&gt;18469 Velgast&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038324384&quot;&gt;038324384&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke Velgast",
+            "strasse": "Straße der Jugend 37",
+            "plz": "18469",
+            "ort": "Velgast",
+            "id": "178230",
+            "distanz": "41.82",
+            "telefon": "038324384",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.6582061, 53.523842],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Weststadt Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bornhoeffer Str. 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:039916318100&quot;&gt;039916318100&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Weststadt Apotheke",
+            "strasse": "Bornhoeffer Str. 14",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "178519",
+            "distanz": "41.98",
+            "telefon": "039916318100",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.6825129, 53.5203055],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;da Vinci-Apotheke am Bahnhof&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Beethovenstr. 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991 631385&quot;&gt;03991 631385&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "da Vinci-Apotheke am Bahnhof",
+            "strasse": "Beethovenstr. 1",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "178638",
+            "distanz": "42.22",
+            "telefon": "03991 631385",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.6605961, 53.5206875],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Kranich Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hans-Beimler-Str. 42 b&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991/17570&quot;&gt;03991/17570&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Kranich Apotheke",
+            "strasse": "Hans-Beimler-Str. 42 b",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "172569",
+            "distanz": "42.31",
+            "telefon": "03991/17570",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.677138, 53.5188383],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Linden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Goethestr. 48-51&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991/731932&quot;&gt;03991/731932&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Linden-Apotheke",
+            "strasse": "Goethestr. 48-51",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "174456",
+            "distanz": "42.41",
+            "telefon": "03991/731932",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.43645, 54.2398],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Bahnhof-Apotheke Ribnitz&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Ulmenstr. 10-12&lt;/span&gt;&lt;br&gt;&lt;span&gt;18311 Ribnitz-Damgarten&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03821708400&quot;&gt;03821708400&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Bahnhof-Apotheke Ribnitz",
+            "strasse": "Ulmenstr. 10-12",
+            "plz": "18311",
+            "ort": "Ribnitz-Damgarten",
+            "id": "178672",
+            "distanz": "42.56",
+            "telefon": "03821708400",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.683333, 53.516667],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;L&ouml;wen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Neuer Markt 21&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991/666153&quot;&gt;03991/666153&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Löwen-Apotheke",
+            "strasse": "Neuer Markt 21",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "172552",
+            "distanz": "42.62",
+            "telefon": "03991/666153",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.4732135, 54.2522447],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Linden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schillstr.3&lt;/span&gt;&lt;br&gt;&lt;span&gt;18311 Ribnitz-Damgarten&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03821/62090&quot;&gt;03821/62090&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Linden-Apotheke",
+            "strasse": "Schillstr.3",
+            "plz": "18311",
+            "ort": "Ribnitz-Damgarten",
+            "id": "170631",
+            "distanz": "42.81",
+            "telefon": "03821/62090",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1901, 54.11592],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke Offering&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hansestra&szlig;e 37&lt;/span&gt;&lt;br&gt;&lt;span&gt;18182 Bentwisch&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/2014130&quot;&gt;0381/2014130&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke Offering",
+            "strasse": "Hansestraße 37",
+            "plz": "18182",
+            "ort": "Bentwisch",
+            "id": "177601",
+            "distanz": "42.83",
+            "telefon": "0381/2014130",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.681179, 53.5147578],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Kietz&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kietzstr. 13 b&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991/15080&quot;&gt;03991/15080&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Kietz",
+            "strasse": "Kietzstr. 13 b",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "176275",
+            "distanz": "42.84",
+            "telefon": "03991/15080",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.4365397, 54.2426333],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Recknitz-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Stra&szlig;e 13&lt;/span&gt;&lt;br&gt;&lt;span&gt;18311 Ribnitz-Damgarten&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03821/3890&quot;&gt;03821/3890&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Recknitz-Apotheke",
+            "strasse": "Lange Straße 13",
+            "plz": "18311",
+            "ort": "Ribnitz-Damgarten",
+            "id": "173691",
+            "distanz": "42.84",
+            "telefon": "03821/3890",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.686791, 53.5142062],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Fontane-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Stra&szlig;e 55&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991/64270&quot;&gt;03991/64270&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Fontane-Apotheke",
+            "strasse": "Lange Straße 55",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "174201",
+            "distanz": "42.88",
+            "telefon": "03991/64270",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.4320712, 54.2436587],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Forellen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Markt 7/8&lt;/span&gt;&lt;br&gt;&lt;span&gt;18311 Ribnitz-Damgarten&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03821/895165&quot;&gt;03821/895165&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Forellen-Apotheke",
+            "strasse": "Am Markt 7/8",
+            "plz": "18311",
+            "ort": "Ribnitz-Damgarten",
+            "id": "173980",
+            "distanz": "43.07",
+            "telefon": "03821/895165",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.4284319, 54.2432365],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke Am Bodden&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Stra&szlig;e 80&lt;/span&gt;&lt;br&gt;&lt;span&gt;18311 Ribnitz-Damgarten&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03821/812913&quot;&gt;03821/812913&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke Am Bodden",
+            "strasse": "Lange Straße 80",
+            "plz": "18311",
+            "ort": "Ribnitz-Damgarten",
+            "id": "171226",
+            "distanz": "43.14",
+            "telefon": "03821/812913",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1672069, 54.1041584],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Greif-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hannes-Meyer-Platz 25&lt;/span&gt;&lt;br&gt;&lt;span&gt;18146 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/690409&quot;&gt;0381/690409&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Greif-Apotheke",
+            "strasse": "Hannes-Meyer-Platz 25",
+            "plz": "18146",
+            "ort": "Rostock",
+            "id": "175578",
+            "distanz": "43.37",
+            "telefon": "0381/690409",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.16649, 54.10342],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke im &Auml;rztehaus Dierkow&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hannes-Meyer-Platz 7&lt;/span&gt;&lt;br&gt;&lt;span&gt;18146 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381697100&quot;&gt;0381697100&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke im Ärztehaus Dierkow",
+            "strasse": "Hannes-Meyer-Platz 7",
+            "plz": "18146",
+            "ort": "Rostock",
+            "id": "178366",
+            "distanz": "43.37",
+            "telefon": "0381697100",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.69992, 53.50911],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Papenberg&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Rosa-Luxemburg-Str.20b&lt;/span&gt;&lt;br&gt;&lt;span&gt;17192 Waren&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03991/668877&quot;&gt;03991/668877&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Papenberg",
+            "strasse": "Rosa-Luxemburg-Str.20b",
+            "plz": "17192",
+            "ort": "Waren",
+            "id": "176904",
+            "distanz": "43.39",
+            "telefon": "03991/668877",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1512988, 54.0927801],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke Holzhalbinsel&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gaffelschonerweg 14&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038144436590&quot;&gt;038144436590&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke Holzhalbinsel",
+            "strasse": "Gaffelschonerweg 14",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "178825",
+            "distanz": "43.62",
+            "telefon": "038144436590",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "Regina",
+              "nachname": "Luchterhand",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1415008, 54.082507],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;St.-Georg-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Bl&uuml;cherstr. 88/89&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4923424&quot;&gt;0381/4923424&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "St.-Georg-Apotheke",
+            "strasse": "Blücherstr. 88/89",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "171073",
+            "distanz": "43.63",
+            "telefon": "0381/4923424",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1394616, 54.0830075],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Steintor-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Paulstr. 48-55&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03814930220&quot;&gt;03814930220&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Steintor-Apotheke",
+            "strasse": "Paulstr. 48-55",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "175901",
+            "distanz": "43.78",
+            "telefon": "03814930220",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.14267, 54.0909],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Altstadt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Grubenstr. 20&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4590409&quot;&gt;0381/4590409&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Altstadt-Apotheke",
+            "strasse": "Grubenstr. 20",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "174575",
+            "distanz": "44.01",
+            "telefon": "0381/4590409",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1352418, 54.0839711],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Augusten-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Augustenstra&szlig;e 103&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/455119&quot;&gt;0381/455119&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Augusten-Apotheke",
+            "strasse": "Augustenstraße 103",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "173861",
+            "distanz": "44.07",
+            "telefon": "0381/455119",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1392939, 54.0886123],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Neuer Markt 13&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4934747&quot;&gt;0381/4934747&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Neuer Markt 13",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "171005",
+            "distanz": "44.08",
+            "telefon": "0381/4934747",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.13675, 54.0878],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Hopfenmarkt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Rostocker Heide 2&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4909434&quot;&gt;0381/4909434&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Hopfenmarkt-Apotheke",
+            "strasse": "Rostocker Heide 2",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "176598",
+            "distanz": "44.18",
+            "telefon": "0381/4909434",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1355131, 54.0881299],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Alpha-Apotheke im Rostocker Hof&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kr&ouml;peliner Str. 26-28&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/497880&quot;&gt;0381/497880&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Alpha-Apotheke im Rostocker Hof",
+            "strasse": "Kröpeliner Str. 26-28",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "176360",
+            "distanz": "44.27",
+            "telefon": "0381/497880",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1330965, 54.088794],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Jakobi-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Zur Himmelspforte 1/2&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381497490&quot;&gt;0381497490&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Jakobi-Apotheke",
+            "strasse": "Zur Himmelspforte 1/2",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "178893",
+            "distanz": "44.45",
+            "telefon": "0381497490",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.03105, 54.25676],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Borgwallsee&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hauptstra&szlig;e 38 B&lt;/span&gt;&lt;br&gt;&lt;span&gt;18442 Negast&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038327/68323&quot;&gt;038327/68323&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Borgwallsee",
+            "strasse": "Hauptstraße 38 B",
+            "plz": "18442",
+            "ort": "Negast",
+            "id": "177278",
+            "distanz": "44.46",
+            "telefon": "038327/68323",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.2376291, 54.1740945],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Heide-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Birkenstrat 25&lt;/span&gt;&lt;br&gt;&lt;span&gt;18182 R&ouml;vershagen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038202432271&quot;&gt;038202432271&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Heide-Apotheke",
+            "strasse": "Birkenstrat 25",
+            "plz": "18182",
+            "ort": "Rövershagen",
+            "id": "175986",
+            "distanz": "44.47",
+            "telefon": "038202432271",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.11714, 54.07137],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;S&uuml;dstadt-Center-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Nobelstr. 50 -51&lt;/span&gt;&lt;br&gt;&lt;span&gt;18059 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4053210&quot;&gt;0381/4053210&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Südstadt-Center-Apotheke",
+            "strasse": "Nobelstr. 50 -51",
+            "plz": "18059",
+            "ort": "Rostock",
+            "id": "175510",
+            "distanz": "44.50",
+            "telefon": "0381/4053210",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1231462, 54.079286],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke an der Stadthalle&lt;/h5&gt;&lt;p&gt;&lt;span&gt;P&uuml;tterweg 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18059 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/448437&quot;&gt;0381/448437&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke an der Stadthalle",
+            "strasse": "Pütterweg 1",
+            "plz": "18059",
+            "ort": "Rostock",
+            "id": "174609",
+            "distanz": "44.54",
+            "telefon": "0381/448437",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1325147, 54.0902272],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Warnow-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Str. 6&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/491280&quot;&gt;0381/491280&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Warnow-Apotheke",
+            "strasse": "Lange Str. 6",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "170886",
+            "distanz": "44.55",
+            "telefon": "0381/491280",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1301164, 54.0886087],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke im KTC&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Kr&ouml;peliner Str. 54&lt;/span&gt;&lt;br&gt;&lt;span&gt;18055 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03812605310&quot;&gt;03812605310&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke im KTC",
+            "strasse": "Kröpeliner Str. 54",
+            "plz": "18055",
+            "ort": "Rostock",
+            "id": "178434",
+            "distanz": "44.61",
+            "telefon": "03812605310",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.4083864, 53.93894],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Adler-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Pommersche Str. 17&lt;/span&gt;&lt;br&gt;&lt;span&gt;17506 G&uuml;tzkow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038353/230&quot;&gt;038353/230&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Adler-Apotheke",
+            "strasse": "Pommersche Str. 17",
+            "plz": "17506",
+            "ort": "Gützkow",
+            "id": "171243",
+            "distanz": "44.69",
+            "telefon": "038353/230",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1238805, 54.0880925],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Doberaner Platz&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Doberaner Str. 10 -12&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4995121&quot;&gt;0381/4995121&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Doberaner Platz",
+            "strasse": "Doberaner Str. 10 -12",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "177669",
+            "distanz": "44.94",
+            "telefon": "0381/4995121",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1226767, 54.0877079],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Brink&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Wismarsche Str. 4&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03813750867&quot;&gt;03813750867&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Brink",
+            "strasse": "Wismarsche Str. 4",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "178026",
+            "distanz": "44.99",
+            "telefon": "03813750867",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.117927, 54.0854911],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Linden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Wismarsche Str. 32&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4930200&quot;&gt;0381/4930200&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Linden-Apotheke",
+            "strasse": "Wismarsche Str. 32",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "177567",
+            "distanz": "45.15",
+            "telefon": "0381/4930200",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.11977, 54.08805],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Adler-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Leonhardstr. 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/2002200&quot;&gt;0381/2002200&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Adler-Apotheke",
+            "strasse": "Leonhardstr. 1",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "171124",
+            "distanz": "45.18",
+            "telefon": "0381/2002200",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1449547, 54.1148959],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Ahorn-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;S. Allende Str. 28&lt;/span&gt;&lt;br&gt;&lt;span&gt;18147 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381699630&quot;&gt;0381699630&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Ahorn-Apotheke",
+            "strasse": "S. Allende Str. 28",
+            "plz": "18147",
+            "ort": "Rostock",
+            "id": "174660",
+            "distanz": "45.23",
+            "telefon": "0381699630",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1131492, 54.0844534],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Hansa-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Parkstra&szlig;e 58&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/2003497&quot;&gt;0381/2003497&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Hansa-Apotheke",
+            "strasse": "Parkstraße 58",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "170444",
+            "distanz": "45.38",
+            "telefon": "0381/2003497",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.13792, 54.11223],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Cityblick-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Joliot-Curie-Allee 49&lt;/span&gt;&lt;br&gt;&lt;span&gt;18147 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/6867030&quot;&gt;0381/6867030&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Cityblick-Apotheke",
+            "strasse": "Joliot-Curie-Allee 49",
+            "plz": "18147",
+            "ort": "Rostock",
+            "id": "176513",
+            "distanz": "45.47",
+            "telefon": "0381/6867030",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.11474, 54.09094],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Fritz-Reuter-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Doberaner Str. 43 b&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4932220&quot;&gt;0381/4932220&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Fritz-Reuter-Apotheke",
+            "strasse": "Doberaner Str. 43 b",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "170682",
+            "distanz": "45.62",
+            "telefon": "0381/4932220",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.11923, 54.10143],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Gehlsdorfer Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;F&auml;hrstr.7&lt;/span&gt;&lt;br&gt;&lt;span&gt;18147 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/690417&quot;&gt;0381/690417&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Gehlsdorfer Apotheke",
+            "strasse": "Fährstr.7",
+            "plz": "18147",
+            "ort": "Rostock",
+            "id": "170308",
+            "distanz": "45.92",
+            "telefon": "0381/690417",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.10305, 54.0876],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;John-Brinckman-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schillingallee 28&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/2002457&quot;&gt;0381/2002457&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "John-Brinckman-Apotheke",
+            "strasse": "Schillingallee 28",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "170461",
+            "distanz": "46.12",
+            "telefon": "0381/2002457",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.1026284, 54.0949741],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Werft-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Werftstra&szlig;e 50&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03813754400&quot;&gt;03813754400&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Werft-Apotheke",
+            "strasse": "Werftstraße 50",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "178536",
+            "distanz": "46.53",
+            "telefon": "03813754400",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.0962567, 54.0889998],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Bernstein-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;H.-Sachs-Allee 12&lt;/span&gt;&lt;br&gt;&lt;span&gt;18057 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/4923434&quot;&gt;0381/4923434&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Bernstein-Apotheke",
+            "strasse": "H.-Sachs-Allee 12",
+            "plz": "18057",
+            "ort": "Rostock",
+            "id": "173912",
+            "distanz": "46.59",
+            "telefon": "0381/4923434",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.3652919530869, 54.0947696570873],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Botanischen Garten&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Grimmerstr. 83&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+            "name": "Apotheke am Botanischen Garten",
+            "strasse": "Grimmerstr. 83",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "178980",
+            "distanz": "46.95",
+            "telefon": "",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.37463, 54.09612],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;St.-Jacobi-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Stra&szlig;e 30&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/897219&quot;&gt;03834/897219&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "St.-Jacobi-Apotheke",
+            "strasse": "Lange Straße 30",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "173793",
+            "distanz": "47.56",
+            "telefon": "03834/897219",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.3797629, 54.0915526],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Adler-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;G&uuml;tzkower Str.8&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/510055&quot;&gt;03834/510055&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Adler-Apotheke",
+            "strasse": "Gützkower Str.8",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "171175",
+            "distanz": "47.63",
+            "telefon": "03834/510055",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.38082, 54.09439],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Wall&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Fleischerstra&szlig;e 3&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/2687&quot;&gt;03834/2687&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Wall",
+            "strasse": "Fleischerstraße 3",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "174881",
+            "distanz": "47.84",
+            "telefon": "03834/2687",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.0462375, 54.0497218],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke am Kritzmow-Park&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Karauschensoll 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18198 Kritzmow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038207/75250&quot;&gt;038207/75250&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke am Kritzmow-Park",
+            "strasse": "Am Karauschensoll 1",
+            "plz": "18198",
+            "ort": "Kritzmow",
+            "id": "177941",
+            "distanz": "47.84",
+            "telefon": "038207/75250",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.38067, 54.09582],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Markt 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/2138&quot;&gt;03834/2138&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Markt 1",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "170920",
+            "distanz": "47.90",
+            "telefon": "03834/2138",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.36012, 54.11998],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Hanse Apotheke im Marktkauf&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Marktflecken 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;17498 Neuenkirchen&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/899762&quot;&gt;03834/899762&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Hanse Apotheke im Marktkauf",
+            "strasse": "Marktflecken 1",
+            "plz": "17498",
+            "ort": "Neuenkirchen",
+            "id": "174422",
+            "distanz": "48.02",
+            "telefon": "03834/899762",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.07876, 54.09877],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Ostsee-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;E.-Th&auml;lmann-Str. 4&lt;/span&gt;&lt;br&gt;&lt;span&gt;18069 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381260531350&quot;&gt;0381260531350&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Ostsee-Apotheke",
+            "strasse": "E.-Thälmann-Str. 4",
+            "plz": "18069",
+            "ort": "Rostock",
+            "id": "170801",
+            "distanz": "48.10",
+            "telefon": "0381260531350",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.3852261, 54.0956253],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Greifen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;M&uuml;hlen Str. 3O&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/2456&quot;&gt;03834/2456&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Greifen-Apotheke",
+            "strasse": "Mühlen Str. 3O",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "170427",
+            "distanz": "48.15",
+            "telefon": "03834/2456",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.38682, 54.094099],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Ring-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Reihe 89&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/892727&quot;&gt;03834/892727&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Ring-Apotheke",
+            "strasse": "Lange Reihe 89",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "176173",
+            "distanz": "48.17",
+            "telefon": "03834/892727",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [12.07688, 54.10064],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rosen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Schulenburgstr. 20&lt;/span&gt;&lt;br&gt;&lt;span&gt;18069 Rostock&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:0381/8096280&quot;&gt;0381/8096280&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rosen-Apotheke",
+            "strasse": "Schulenburgstr. 20",
+            "plz": "18069",
+            "ort": "Rostock",
+            "id": "174728",
+            "distanz": "48.31",
+            "telefon": "0381/8096280",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.38987, 54.09471],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Stadt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Wolgaster Str. 4&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/507939&quot;&gt;03834/507939&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Stadt-Apotheke",
+            "strasse": "Wolgaster Str. 4",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "175102",
+            "distanz": "48.38",
+            "telefon": "03834/507939",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.11319, 54.27261],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Hansa-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gustower Weg 3&lt;/span&gt;&lt;br&gt;&lt;span&gt;18439 Stralsund&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03831/270206&quot;&gt;03831/270206&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Hansa-Apotheke",
+            "strasse": "Gustower Weg 3",
+            "plz": "18439",
+            "ort": "Stralsund",
+            "id": "174626",
+            "distanz": "48.58",
+            "telefon": "03831/270206",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.3984658, 54.0886144],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rosen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Hans-Beimler-Str. 1-3&lt;/span&gt;&lt;br&gt;&lt;span&gt;17491 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/820595&quot;&gt;03834/820595&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rosen-Apotheke",
+            "strasse": "Hans-Beimler-Str. 1-3",
+            "plz": "17491",
+            "ort": "Greifswald",
+            "id": "175714",
+            "distanz": "48.59",
+            "telefon": "03834/820595",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.4046259, 54.0827943],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;M&ouml;wen-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lomonossowallee 58&lt;/span&gt;&lt;br&gt;&lt;span&gt;17491 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/829943&quot;&gt;03834/829943&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Möwen-Apotheke",
+            "strasse": "Lomonossowallee 58",
+            "plz": "17491",
+            "ort": "Greifswald",
+            "id": "176241",
+            "distanz": "48.68",
+            "telefon": "03834/829943",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.02022, 54.30283],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Franken-Apotheke OstseeCenter&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Langendorfer Berg 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;18442 Langendorf&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03831357825&quot;&gt;03831357825&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Franken-Apotheke OstseeCenter",
+            "strasse": "Langendorfer Berg 1",
+            "plz": "18442",
+            "ort": "Langendorf",
+            "id": "178621",
+            "distanz": "48.83",
+            "telefon": "03831357825",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.4047477, 54.0926353],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Scheele-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Fr.-Ludwig-Jahn-Str. 20&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/58170&quot;&gt;03834/58170&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Scheele-Apotheke",
+            "strasse": "Fr.-Ludwig-Jahn-Str. 20",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "174388",
+            "distanz": "49.15",
+            "telefon": "03834/58170",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [11.9835858, 53.8478781],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Rats-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Stra&szlig;e 27/1105&lt;/span&gt;&lt;br&gt;&lt;span&gt;18246 B&uuml;tzow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038461/3791&quot;&gt;038461/3791&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Rats-Apotheke",
+            "strasse": "Lange Straße 27/1105",
+            "plz": "18246",
+            "ort": "Bützow",
+            "id": "172688",
+            "distanz": "49.32",
+            "telefon": "038461/3791",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.4122859, 54.0876543],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Linden-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Pappelallee 1&lt;/span&gt;&lt;br&gt;&lt;span&gt;17489 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/829920&quot;&gt;03834/829920&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Linden-Apotheke",
+            "strasse": "Pappelallee 1",
+            "plz": "17489",
+            "ort": "Greifswald",
+            "id": "176054",
+            "distanz": "49.36",
+            "telefon": "03834/829920",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.4178559, 54.0810843],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Ahorn-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Th&auml;lmannring 11-13&lt;/span&gt;&lt;br&gt;&lt;span&gt;17491 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/820028&quot;&gt;03834/820028&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Ahorn-Apotheke",
+            "strasse": "Thälmannring 11-13",
+            "plz": "17491",
+            "ort": "Greifswald",
+            "id": "177516",
+            "distanz": "49.38",
+            "telefon": "03834/820028",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.419452, 54.0797906],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke Sch&ouml;nwalde&lt;/h5&gt;&lt;p&gt;&lt;span&gt;E.-Th&auml;lmann-Ring 68&lt;/span&gt;&lt;br&gt;&lt;span&gt;17491 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/811095&quot;&gt;03834/811095&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke Schönwalde",
+            "strasse": "E.-Thälmann-Ring 68",
+            "plz": "17491",
+            "ort": "Greifswald",
+            "id": "171600",
+            "distanz": "49.42",
+            "telefon": "03834/811095",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [11.9816155, 53.8479927],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Markt-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Lange Stra&szlig;e 49&lt;/span&gt;&lt;br&gt;&lt;span&gt;18246 B&uuml;tzow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038461/65216&quot;&gt;038461/65216&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Markt-Apotheke",
+            "strasse": "Lange Straße 49",
+            "plz": "18246",
+            "ort": "Bützow",
+            "id": "177856",
+            "distanz": "49.45",
+            "telefon": "038461/65216",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.0875811, 53.5053527],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Alms-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Gro&szlig;e Str. 52&lt;/span&gt;&lt;br&gt;&lt;span&gt;17217 Penzlin&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03962/210256&quot;&gt;03962/210256&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Alms-Apotheke",
+            "strasse": "Große Str. 52",
+            "plz": "17217",
+            "ort": "Penzlin",
+            "id": "172603",
+            "distanz": "49.70",
+            "telefon": "03962/210256",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [11.97783, 53.84199],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Forsthof-Apotheke&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Am Forsthof 22&lt;/span&gt;&lt;br&gt;&lt;span&gt;18246 B&uuml;tzow&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:038461/3497&quot;&gt;038461/3497&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Forsthof-Apotheke",
+            "strasse": "Am Forsthof 22",
+            "plz": "18246",
+            "ort": "Bützow",
+            "id": "173674",
+            "distanz": "49.78",
+            "telefon": "038461/3497",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        },
+    	
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [13.4366478, 54.0672869],
+            "type": "Point"
+          },
+          "properties": {
+            "popup": "&lt;h5&gt;Apotheke im Elisenpark&lt;/h5&gt;&lt;p&gt;&lt;span&gt;Anklamer Landstra&szlig;e&lt;/span&gt;&lt;br&gt;&lt;span&gt;17491 Greifswald&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Tel: &lt;/span&gt;&lt;a href=&quot;tel:03834/820438&quot;&gt;03834/820438&lt;/a&gt;&lt;br&gt;&lt;/p&gt;",
+            "name": "Apotheke im Elisenpark",
+            "strasse": "Anklamer Landstraße",
+            "plz": "17491",
+            "ort": "Greifswald",
+            "id": "175612",
+            "distanz": "49.92",
+            "telefon": "03834/820438",
+            "fax": "",
+            "email": "",
+            "person": {
+              "personAnrede": "",
+              "vorname": "",
+              "nachname": "",
+              "position": ""
+            }
+          }
+        }
+    	
+]}
