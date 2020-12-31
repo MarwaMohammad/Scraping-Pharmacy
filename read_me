@@ -1,0 +1,7 @@
+Here, I scraped data from 
+
+https://www.aponet.de/apotheke/apothekensuche/22111/%20/50
+
+I used pandas, json, os, re.
+
+
